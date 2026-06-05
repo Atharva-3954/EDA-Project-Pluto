@@ -173,12 +173,11 @@ Through this project, I learned:
 ## 📂 Project Structure
 
 ```text
-Netflix-EDA-Project/
+EDA-Project-Pluto/
 │
-├── EDA_Project.ipynb
+├── EDA_Project_.ipynb
 ├── netflix_titles.csv
-├── README.md
-└── images/ (optional)
+└── README.md
 ```
 
 ---
