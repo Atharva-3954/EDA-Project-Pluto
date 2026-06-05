@@ -108,11 +108,11 @@ Generated observations and findings based on analysis results and visualizations
 
 The following questions were explored during the analysis:
 
-1. What is the distribution of Movies and TV Shows on Netflix?
-2. Which countries contribute the most content to Netflix?
-3. What are the most common content ratings on Netflix?
-4. Which genres are most frequently available on Netflix?
-5. How has Netflix content changed over the years?
+1. What is the distribution of Movies and TV Shows on Netflix!?
+2. Which countries contribute the most content to Netflix!?
+3. What are the most common content ratings on Netflix!?
+4. Which genres are most frequently available on Netflix!?
+5. How has Netflix content changed over the years!?
 
 ---
 
